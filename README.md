@@ -6,7 +6,7 @@
 git clone https://github.com/zainarain279/sosovalue-Bot.git
 ```
 ```
-cd sosovalue
+cd sosovalue-Bot
 ```
 ```
 python app.py
